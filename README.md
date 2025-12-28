@@ -1,1 +1,1 @@
-# collegemates
+# collegemates application for college students
